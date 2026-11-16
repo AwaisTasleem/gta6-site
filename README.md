@@ -1,5 +1,7 @@
 # GTA VI Fan Site
 
+**Live demo:** https://gta6-site-omega.vercel.app/
+
 An unofficial, fan-made 3D website for Grand Theft Auto VI.
 
 ## Features
@@ -16,7 +18,6 @@ React, Vite, Three.js, @react-three/fiber, @react-three/drei, Framer Motion
     npm install
     npm run dev
 
-To open it on your phone (same Wi-Fi): `npm run dev -- --host`
 
 ## Disclaimer
 This is a non-commercial fan project and is not affiliated with Rockstar Games
